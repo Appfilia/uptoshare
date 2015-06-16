@@ -1,7 +1,7 @@
 #Up to Share
 ####License
 ````
-Copyright ® 2015 Appfilia Ltd.
+Copyright © 2015 Appfilia Ltd.
 
 Up to Share
 
